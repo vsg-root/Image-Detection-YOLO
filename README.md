@@ -13,5 +13,5 @@ https://pjreddie.com/darknet/
 https://user-images.githubusercontent.com/108759490/187921938-5a20d512-667a-479e-a85e-5a63901eeff1.mp4
 
 
-![Captura de tela de 2022-09-01 10-13-38](https://user-images.githubusercontent.com/108759490/187922737-89c388d1-8b55-488a-b7e1-71456be0da70.png)
+![image](https://user-images.githubusercontent.com/108759490/187923018-e301d360-9f46-4ffc-90f8-342779cf33b3.png)
 
