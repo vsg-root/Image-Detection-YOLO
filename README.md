@@ -10,7 +10,6 @@ https://pjreddie.com/darknet/
 
 
 
-https://user-images.githubusercontent.com/108759490/187921938-5a20d512-667a-479e-a85e-5a63901eeff1.mp4
 
 
 ![image](https://user-images.githubusercontent.com/108759490/187923141-518edb76-4ba2-42b4-b493-f7add60c505f.png)
