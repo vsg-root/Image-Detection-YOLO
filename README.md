@@ -16,5 +16,4 @@ https://user-images.githubusercontent.com/108759490/187958724-1da97671-5893-43b9
 
 
 
-![image](https://user-images.githubusercontent.com/108759490/187923141-518edb76-4ba2-42b4-b493-f7add60c505f.png)
 
